@@ -1,0 +1,11 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    { "item": "irons_spellbooks:cast_time_ring" }
+  ],
+  "results": [
+    { "id": "minecraft:lapis_lazuli", "count": 3 },
+    { "id": "minecraft:gold_nugget", "count": 2, "chance": 0.80 }
+  ],
+  "processingTime": 200
+}

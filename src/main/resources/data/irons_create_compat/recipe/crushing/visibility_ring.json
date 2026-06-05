@@ -1,0 +1,11 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    { "item": "irons_spellbooks:visibility_ring" }
+  ],
+  "results": [
+    { "id": "minecraft:amethyst_shard", "count": 1 },
+    { "id": "create:copper_nugget", "count": 2, "chance": 0.80 }
+  ],
+  "processingTime": 200
+}

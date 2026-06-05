@@ -1,0 +1,11 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    { "item": "irons_spellbooks:affinity_ring" }
+  ],
+  "results": [
+    { "id": "minecraft:lapis_lazuli", "count": 1 },
+    { "id": "minecraft:gold_nugget", "count": 2, "chance": 0.75 }
+  ],
+  "processingTime": 250
+}

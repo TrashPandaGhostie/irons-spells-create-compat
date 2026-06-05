@@ -1,0 +1,11 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    { "item": "irons_spellbooks:betrayer_signet" }
+  ],
+  "results": [
+    { "id": "minecraft:netherite_scrap", "count": 1 },
+    { "id": "minecraft:gold_nugget", "count": 4, "chance": 0.50 }
+  ],
+  "processingTime": 300
+}

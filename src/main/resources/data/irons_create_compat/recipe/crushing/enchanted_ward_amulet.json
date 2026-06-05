@@ -1,0 +1,11 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    { "item": "irons_spellbooks:enchanted_ward_amulet" }
+  ],
+  "results": [
+    { "id": "minecraft:diamond", "count": 1 },
+    { "id": "minecraft:gold_nugget", "count": 3, "chance": 0.75 }
+  ],
+  "processingTime": 200
+}

@@ -1,0 +1,11 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    { "item": "irons_spellbooks:emerald_stoneplate_ring" }
+  ],
+  "results": [
+    { "id": "minecraft:emerald", "count": 1 },
+    { "id": "minecraft:gold_nugget", "count": 3, "chance": 0.75 }
+  ],
+  "processingTime": 200
+}

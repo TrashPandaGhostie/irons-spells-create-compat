@@ -1,0 +1,11 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    { "item": "irons_spellbooks:heavy_chain_necklace" }
+  ],
+  "results": [
+    { "id": "minecraft:iron_ingot", "count": 2 },
+    { "id": "minecraft:iron_nugget", "count": 4, "chance": 0.90 }
+  ],
+  "processingTime": 150
+}

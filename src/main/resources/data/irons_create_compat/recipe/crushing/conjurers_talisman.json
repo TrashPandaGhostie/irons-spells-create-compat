@@ -1,0 +1,11 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    { "item": "irons_spellbooks:conjurers_talisman" }
+  ],
+  "results": [
+    { "id": "minecraft:emerald", "count": 1 },
+    { "id": "minecraft:gold_nugget", "count": 2, "chance": 0.75 }
+  ],
+  "processingTime": 200
+}

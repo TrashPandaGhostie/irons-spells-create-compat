@@ -1,0 +1,40 @@
+modLoader="javafml"
+loaderVersion="[1,)"
+license="MIT"
+
+[[dependencies.irons_create_compat]]
+    modId="neoforge"
+    type="required"
+    versionRange="[21.1,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.irons_create_compat]]
+    modId="minecraft"
+    type="required"
+    versionRange="[1.21.1,1.22)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.irons_create_compat]]
+    modId="irons_spellbooks"
+    type="required"
+    versionRange="[1.21.1-3.10.0,)"
+    ordering="AFTER"
+    side="BOTH"
+
+[[dependencies.irons_create_compat]]
+    modId="create"
+    type="required"
+    versionRange="[6.0,)"
+    ordering="AFTER"
+    side="BOTH"
+
+[[mods]]
+    modId="irons_create_compat"
+    version="1.0.0"
+    displayName="Iron's Spells x Create Compat"
+    description='''
+Adds Create Crushing Wheel recipes for all rings and necklaces from Iron's Spells 'n Spellbooks.
+Grind them down to recover gems and metal nuggets!
+    '''

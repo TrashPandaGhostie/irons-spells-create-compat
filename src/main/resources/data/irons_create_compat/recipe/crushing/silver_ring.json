@@ -1,0 +1,11 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    { "item": "irons_spellbooks:silver_ring" }
+  ],
+  "results": [
+    { "id": "minecraft:iron_ingot", "count": 1 },
+    { "id": "minecraft:iron_nugget", "count": 3, "chance": 0.90 }
+  ],
+  "processingTime": 150
+}

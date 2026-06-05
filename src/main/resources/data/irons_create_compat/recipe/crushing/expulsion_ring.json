@@ -1,0 +1,11 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    { "item": "irons_spellbooks:expulsion_ring" }
+  ],
+  "results": [
+    { "id": "minecraft:amethyst_shard", "count": 2 },
+    { "id": "create:copper_nugget", "count": 3, "chance": 0.70 }
+  ],
+  "processingTime": 200
+}

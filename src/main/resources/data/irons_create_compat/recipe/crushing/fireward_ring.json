@@ -1,0 +1,11 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    { "item": "irons_spellbooks:fireward_ring" }
+  ],
+  "results": [
+    { "id": "minecraft:diamond", "count": 1 },
+    { "id": "minecraft:gold_nugget", "count": 2, "chance": 0.80 }
+  ],
+  "processingTime": 200
+}

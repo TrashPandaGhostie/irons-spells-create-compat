@@ -1,0 +1,11 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    { "item": "irons_spellbooks:concentration_amulet" }
+  ],
+  "results": [
+    { "id": "minecraft:amethyst_shard", "count": 3 },
+    { "id": "minecraft:gold_nugget", "count": 2, "chance": 0.75 }
+  ],
+  "processingTime": 200
+}

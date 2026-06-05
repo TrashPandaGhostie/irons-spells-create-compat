@@ -1,0 +1,11 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    { "item": "irons_spellbooks:amethyst_resonance_charm" }
+  ],
+  "results": [
+    { "id": "minecraft:amethyst_shard", "count": 4 },
+    { "id": "create:copper_nugget", "count": 3, "chance": 0.80 }
+  ],
+  "processingTime": 200
+}

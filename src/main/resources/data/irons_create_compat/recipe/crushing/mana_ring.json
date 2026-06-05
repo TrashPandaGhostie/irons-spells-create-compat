@@ -1,0 +1,11 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    { "item": "irons_spellbooks:mana_ring" }
+  ],
+  "results": [
+    { "id": "minecraft:lapis_lazuli", "count": 4 },
+    { "id": "minecraft:gold_nugget", "count": 2, "chance": 0.85 }
+  ],
+  "processingTime": 200
+}
