@@ -1,0 +1,11 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    { "item": "irons_spellbooks:shriving_stone" }
+  ],
+  "results": [
+    { "id": "create:crushed_raw_iron", "count": 1 },
+    { "id": "irons_spellbooks:arcane_essence", "count": 1, "chance": 0.50 }
+  ],
+  "processingTime": 250
+}
