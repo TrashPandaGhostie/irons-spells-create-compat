@@ -1,6 +1,14 @@
 {
   "replace": false,
   "values": [
+    "irons_spellbooks:wizard_boots",
+    "irons_spellbooks:wizard_chestplate",
+    "irons_spellbooks:wizard_hat",
+    "irons_spellbooks:wizard_helmet",
+    "irons_spellbooks:wizard_leggings",
+    "irons_spellbooks:shriving_stone",
+    "irons_spellbooks:chained_book",
+    "irons_spellbooks:weapon_parts",
     "irons_spellbooks:mana_ring",
     "irons_spellbooks:cooldown_ring",
     "irons_spellbooks:cast_time_ring",
